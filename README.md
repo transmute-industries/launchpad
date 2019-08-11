@@ -67,6 +67,7 @@ The setup process will install:
 
 <details>
 <summary>Development</summary>
+
 * [Visual Studio Code](https://code.visualstudio.com/) IDE
 </details>
 
