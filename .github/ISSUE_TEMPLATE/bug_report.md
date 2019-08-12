@@ -14,11 +14,15 @@ A clear and concise description of the behavior.
 **Expected behavior/code**
 A clear and concise description of what you expected to happen (or code).
 
-**Possible Solution**
-<!--- Only if you have suggestions on a fix for the bug -->
+**Steps to Reproduce**
+Add any other context about the problem here. If applicable, add screenshots to help explain.
+
 
 **Additional context/Screenshots**
 Add any other context about the problem here. If applicable, add screenshots to help explain.
+
+
+
 
 ---
 
