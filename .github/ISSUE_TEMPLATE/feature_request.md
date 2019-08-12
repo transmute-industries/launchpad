@@ -1,5 +1,5 @@
 ---
-name: "🚀 Feature Request: <JIRA_TICKET>"
+name: "🚀 Feature Request"
 about: "I have a suggestion (and may want to implement it 🙂!"
 title: ''
 labels: 'i: enhancement, i: needs triage'
@@ -20,4 +20,4 @@ Maybe a screenshot or design?
 
 ---
 
-[Create Pull Request](https://github.com/octo-org/octo-repo/issues/new?template=feature_request.md)
+[Create Pull Request](https://github.com/transmute-industries/launchpad/issues/new?template=feature_request.md)

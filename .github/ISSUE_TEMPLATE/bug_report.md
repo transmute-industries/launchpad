@@ -1,5 +1,5 @@
 ---
-name: "🐛 Bug Report : <JIRA_TICKET>"
+name: "🐛 Bug Report"
 about: "If something isn't working as expected 🤔"
 title: ''
 labels: 'i: bug, i: needs triage'
@@ -22,4 +22,4 @@ Add any other context about the problem here. If applicable, add screenshots to 
 
 ---
 
-[Create Pull Request](https://github.com/octo-org/octo-repo/issues/new?template=bug_fix.md)
+[Create Pull Request](https://github.com/transmute-industries/launchpad/issues/new?template=bug_fix.md)

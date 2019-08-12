@@ -1,12 +1,12 @@
 ---
-name: "🐛 Bug Fix: <JIRA_TICKET>"
+name: "🐛 Bug Fix"
 about: "If something isn't working as expected 🤔"
 title: ''
 labels: 'i: bug, i: needs triage'
 
 ---
 
-## Bug Report
+## Bug Report: <JIRA_TICKET>
 
 
 **Changelog:**
