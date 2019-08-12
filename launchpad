@@ -121,8 +121,8 @@ if ! [ -e $NVM_DIR ]; then
 	[ -s "$NVM_DIR/bash_completion" ] && \. "$NVM_DIR/bash_completion"  
 	print_success "NVM installed!"
 	step "Installing latest Node…"
-	nvm install node
-	nvm use node
+	nvm install 10
+	nvm use 10
 	nvm run node --version
 	nodev=$(node -v)
 	print_success "Using Node $nodev!"
