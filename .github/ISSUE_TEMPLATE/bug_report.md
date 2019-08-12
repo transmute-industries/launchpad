@@ -22,4 +22,4 @@ Add any other context about the problem here. If applicable, add screenshots to 
 
 ---
 
-[Create Pull Request](https://github.com/transmute-industries/launchpad/issues/new?template=bug_fix.md)
+[Create Pull Request](https://github.com/transmute-industries/launchpad/compare/master...template-test?expand=1&title=ENG-%3CJIRA_TICKET%3E&template=pull_request_template.md)

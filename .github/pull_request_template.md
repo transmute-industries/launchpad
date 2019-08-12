@@ -1,11 +1,3 @@
----
-name: "🐛 Bug Fix"
-about: "If something isn't working as expected 🤔"
-title: ''
-labels: 'i: bug, i: needs triage'
-
----
-
 ## ENG-<JIRA_TICKET_NUMBER>: <JIRA_DESCRIPTIONS>
 
 
