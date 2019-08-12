@@ -17,7 +17,3 @@ A clear and concise description of what you want to happen. Add any considered d
 
 **Mocks(if applicable)**
 Maybe a screenshot or design?
-
----
-
-[Create Pull Request](https://github.com/transmute-industries/launchpad/issues/new?template=feature_request.md)
