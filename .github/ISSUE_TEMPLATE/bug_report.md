@@ -20,10 +20,3 @@ Add any other context about the problem here. If applicable, add screenshots to 
 
 **Additional context/Screenshots**
 Add any other context about the problem here. If applicable, add screenshots to help explain.
-
-
-
-
----
-
-[Create Pull Request](https://github.com/transmute-industries/launchpad/compare/master...template-test?expand=1&title=ENG-%3CJIRA_TICKET%3E&template=pull_request_template.md)
